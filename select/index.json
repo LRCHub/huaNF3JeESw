@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "感情御中",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-18T01:19:18.519859Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "感情御中 - WANT U LUV IT",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_感情御中_-_WANT_U_LUV_IT_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "感情御中",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_感情御中_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "感情御中 - WANT U LUV IT - WANT U LUV IT",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/03_感情御中_-_WANT_U_LUV_IT_-_WANT_U_LUV_IT_Reol.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "感情御中 - WANT U LUV IT",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/04_感情御中_-_WANT_U_LUV_IT_Reol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "感情御中",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/05_感情御中_Reol.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reol - '感情御中 -WANT U LUV IT-' Music Video",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/06_Reol_-_'感情御中_-WANT_U_LUV_IT-'_Music_Video_Reol.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "感情御中 - WANT U LUV IT",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_感情御中_-_WANT_U_LUV_IT_Reol.txt"
+    }
+  ]
+}
